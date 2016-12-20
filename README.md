@@ -1,5 +1,5 @@
 
-I forked this in order changed modal api so it works better with bootstrap specific modal api.
+I forked this in order to change the modal service api so it works better with bootstrap specific modal api.
 
 
 angular-modal-service
