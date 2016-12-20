@@ -1,3 +1,7 @@
+
+I forked this in order changed modal api so it works better with bootstrap specific modal api.
+
+
 angular-modal-service
 =====================
 
